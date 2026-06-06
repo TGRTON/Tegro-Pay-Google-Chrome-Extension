@@ -1,3 +1,8 @@
+> ⚠️ **Archived — legacy / experimental, no longer maintained.**
+> Part of **TGRTON**, the historical home of the (retired) $TGR token and early Tegro experiments. For our active, maintained projects see the **[Tegro open-source org → github.com/TegroTON](https://github.com/TegroTON)** — DEX [tegro.finance](https://tegro.finance) · Payments [tegro.money](https://tegro.money).
+
+---
+
 ## Overview
 Tegro Pay Extension allows users to create payment invoices using the API from [Tegro.money](https://tegro.money/). This extension is designed to streamline the process of generating and managing payment requests directly from your browser.
 
